@@ -2,6 +2,6 @@
 
 int main()
 {
-    printf("2 * 2 = %d", 2 * 2);
+    printf("3 * 3 = %d", 3 * 3);
     return 0;
 }
